@@ -38,6 +38,7 @@ const images = {
   markdown: require("../assets/markdown.png"),
   reactJax: require("../assets/react-jax.png"),
   reactLogo: require("../assets/react-logo-1000-transparent.png"),
+  brookSource: require("../assets/brooksource-mobile.jpg"),
   facebookReactSite: require("../assets/facebook-react-site.png"),
   yoDawg: require("../assets/yo-dawg-abstration.jpg"),
   yoDawgNoText: require("../assets/Yo-Dawg-Heard-You.jpg"),
@@ -126,6 +127,10 @@ export default class Presentation extends React.Component {
           <ListItem margin="0 0 0 20px" textColor="editorWhite" textAlign="left">High Level Overview</ListItem>
           <ListItem margin="0 0 0 20px" textColor="editorWhite" textAlign="left">Where to Begin With React</ListItem>
           <Text size={6} textColor="editorWhite" textAlign="left">Intended for developers at any level who are new to React</Text>
+        </Slide>
+
+        <Slide transition={["slide"]} bgColor="primary">
+          <Image src={images.brookSource} width="1104" height="417"></Image>
         </Slide>
 
         <Slide transition={["zoom"]} bgColor="primary">
@@ -294,9 +299,10 @@ export default class Presentation extends React.Component {
         </Slide>
         <Slide transition={["spin"]} bgColor="editorBackground">
           <Heading size={4} textColor="editorOrange">One-way Data Flow</Heading>
-          <ListItem margin="10px 0 0 20px" textColor="quartenary" textAlign="left">Flows down the component hierarchy</ListItem>
-          <ListItem margin="0 0 0 20px" textColor="quartenary" textAlign="left">"Props down. State up."</ListItem>
-          <ListItem margin="0 0 0 20px" textColor="quartenary" textAlign="left">Paradigm -> Removes confusion</ListItem>
+          <ListItem margin="10px 0 0" textColor="quartenary" textAlign="left">Flows down the component hierarchy</ListItem>
+          <ListItem margin="0 0 0" textColor="quartenary" textAlign="left">"Props down" -> Immutable, to children</ListItem>
+          <ListItem margin="0 0 0" textColor="quartenary" textAlign="left">"State up" -> Mutable, up to parent</ListItem>
+          <ListItem margin="0 0 0" textColor="quartenary" textAlign="left">Paradigm -> Removes confusion</ListItem>
           <Text size={6} textColor="editorRed" textAlign="left">Challenge is understanding which component should own state</Text>
         </Slide>
         <Slide transition={["spin"]} bgColor="editorBackground">
@@ -350,10 +356,10 @@ export default class Presentation extends React.Component {
           <Heading size={2} fit caps lineHeight={1} textColor="darkGrey">
             Why Do I Love React?
           </Heading>
-          <ListItem margin="10px 0 0" textColor="primary" textAlign="left">Choice</ListItem>
+          <ListItem margin="10px 0 0" textColor="primary" textAlign="left">Modularity -> Choice</ListItem>
           <ListItem margin="0 0 0" textColor="primary" textAlign="left">Separation of Concerns -> Knowledge</ListItem>
           <ListItem margin="0 0 0" textColor="primary" textAlign="left">JavaScript</ListItem>
-          <ListItem margin="0 0 0" textColor="primary" textAlign="left">One Way Data Flow</ListItem>
+          <ListItem margin="0 0 0" textColor="primary" textAlign="left">One-way Data Flow</ListItem>
           <ListItem margin="0 0 0" textColor="primary" textAlign="left">Immutability</ListItem>
         </Slide>
 
