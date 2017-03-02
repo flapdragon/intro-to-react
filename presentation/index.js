@@ -215,8 +215,8 @@ export default class Presentation extends React.Component {
         </Slide>
         <Slide transition={["zoom"]} bgColor="darkGrey" bgImage={images.angularDragonBreath}>
         </Slide>
-        <Slide transition={["zoom"]} bgColor="darkGrey" bgImage={images.historyWebWhole}>
-        </Slide>
+        {/* <Slide transition={["zoom"]} bgColor="darkGrey" bgImage={images.historyWebWhole}>
+        </Slide> */}
         <Slide transition={["zoom"]} bgColor="primary">
           <Heading size={2} lineHeight={1} textColor="tertiary">
             Today = (pros) => React

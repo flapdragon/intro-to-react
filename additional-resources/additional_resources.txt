@@ -1,0 +1,92 @@
+THIS PRESENTATION
+	https://github.com/flapdragon/intro-to-react
+
+
+REFERENCES/ADDITIONAL TOOLS
+Stack Exchange!
+	http://stackoverflow.com/
+AirBnB Style Guides
+	https://github.com/airbnb/javascript/tree/master/react
+	https://github.com/airbnb/javascript
+Angular Changelog
+	https://github.com/angular/angular.js/blob/master/CHANGELOG.md
+React Changelog
+	https://github.com/facebook/react/blob/master/CHANGELOG.md
+	https://facebook.github.io/react/blog/
+JavaScript Change Detection @teropa
+	http://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html
+Awesome Node.js
+	https://github.com/sindresorhus/awesome-nodejs
+Awesome Electron
+	https://github.com/sindresorhus/awesome-electron
+Awesome React
+	https://github.com/enaqx/awesome-react
+JSPerf
+	https://jsperf.com/
+Reddit
+	https://www.reddit.com/r/programming/
+	https://www.reddit.com/r/learnprogramming/
+	https://www.reddit.com/r/AskProgramming/
+	https://www.reddit.com/r/ProgrammerHumor/
+	https://www.reddit.com/r/programminghorror/
+Webpack
+	https://webpack.js.org/
+	https://www.pluralsight.com/courses/webpack-fundamentals
+Babel
+	https://babeljs.io/
+ESLint
+	http://eslint.org/
+EditorConfig
+	http://editorconfig.org/
+Git
+	https://try.github.io/levels/1/challenges/1
+	https://git-scm.com/documentation
+	https://www.atlassian.com/git/tutorials/what-is-git
+Git Flow/Workflows
+	https://datasift.github.io/gitflow/IntroducingGitFlow.html
+	https://www.atlassian.com/git/tutorials/comparing-workflows
+Git Commit Message Style
+	https://git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project
+	https://github.com/erlang/otp/wiki/Writing-good-commit-messages
+MERN.io
+	http://mern.io/
+React Spectacle
+	https://github.com/FormidableLabs/spectacle
+StackOverflow Tags
+	http://stackoverflow.com/tags/
+Google Trends
+	https://trends.google.com/trends/
+Libscore
+	https://libscore.com/
+Facebook: Complementary Tools
+	https://github.com/facebook/react/wiki/Complementary-Tools
+React/ES6 'this'
+	https://medium.com/@housecor/react-binding-patterns-5-approaches-for-handling-this-92c651b5af56#.1dq26o11u
+Facebook: Thinking in React
+	https://facebook.github.io/react/docs/thinking-in-react.html
+
+
+TRAINING
+Frontend Masters
+	https://frontendmasters.com/
+PluralSight
+	https://www.pluralsight.com/
+CodeSchool
+	https://www.codeschool.com/
+Udemy
+	https://www.udemy.com/courses/
+
+
+CREDITS
+	https://github.com/FormidableLabs/spectacle
+	https://facebook.github.io/react/docs/hello-world.html
+	http://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html
+	https://thebhwgroup.com/pdfs/the_pragmatic_intro_to_react.pdf
+	https://docs.google.com/presentation/d/19DaabQG8CB4INKGpaHao0hIXcB7zmETg4IHOZkF7MPM/edit#slide=id.g18f9e7fc05_1_0
+	http://coenraets.org/present/react/
+	https://www.slideshare.net/dcneiner/a-brief-introduction-to-react-js
+
+
+NET DINOSAURS
+	http://www.dolekemp96.org/main.htm
+	https://www.warnerbros.com/archive/spacejam/movie/jam.htm
