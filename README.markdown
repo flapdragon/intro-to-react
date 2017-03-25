@@ -12,7 +12,7 @@ Run `npm install` or `yarn`.
 
 Run `rm -R .git` to remove the existing version control.
 
-Then, to start up the local server, run `npm start`
+Then, to start up the local server, run `npm run start`
 
 Open a browser and go to [http://localhost:3000](http://localhost:3000).
 
